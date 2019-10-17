@@ -147,42 +147,6 @@
                "activityType":"activity.edit.ecr",
                "roleNameKey":"hse",
                "activityStatus":"wf.activity.status.inactive"
-            },
-            {
-               "dueDate":"2016-03-29",
-               "activityType":"activity.edit.ecr",
-               "roleNameKey":"echeck",
-               "activityStatus":"wf.activity.status.inactive"
-            },
-            {
-               "dueDate":"2016-03-29",
-               "activityType":"activity.edit.ecr",
-               "roleNameKey":"it",
-               "activityStatus":"wf.activity.status.inactive"
-            },
-            {
-               "dueDate":"2016-03-29",
-               "activityType":"activity.edit.ecr",
-               "roleNameKey":"quality",
-               "activityStatus":"wf.activity.status.inactive"
-            },
-            {
-               "dueDate":"2016-03-29",
-               "activityType":"activity.edit.ecr",
-               "roleNameKey":"logistics.inbound",
-               "activityStatus":"wf.activity.status.inactive"
-            },
-            {
-               "dueDate":"2016-03-29",
-               "activityType":"activity.edit.ecr",
-               "roleNameKey":"product.engineer",
-               "activityStatus":"wf.activity.status.inactive"
-            },
-            {
-               "dueDate":"2016-03-29",
-               "activityType":"activity.edit.ecr",
-               "roleNameKey":"logistics.internal",
-               "activityStatus":"wf.activity.status.inactive"
             }
          ],
          "periodOfUse":{
