@@ -1,4 +1,4 @@
-{
+[{
   "id": 1,
   "first_name": "Victor",
   "last_name": "Evert",
@@ -19,4 +19,4 @@
   "email": "fivashov2@merriam-webster.com",
   "gender": "Male",
   "ip_address": "146.149.125.219"
-}
+}]
