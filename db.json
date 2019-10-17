@@ -1,22 +1,11 @@
-[{
-  "id": 1,
-  "first_name": "Victor",
-  "last_name": "Evert",
-  "email": "vevert0@narod.ru",
-  "gender": "Male",
-  "ip_address": "173.5.198.20"
-}, {
-  "id": 2,
-  "first_name": "Gertrudis",
-  "last_name": "Blackston",
-  "email": "gblackston1@sina.com.cn",
-  "gender": "Female",
-  "ip_address": "252.39.15.123"
-}, {
-  "id": 3,
-  "first_name": "Fredrick",
-  "last_name": "Ivashov",
-  "email": "fivashov2@merriam-webster.com",
-  "gender": "Male",
-  "ip_address": "146.149.125.219"
-}]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
